@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/proyecto122paginafutbol/static/css/main.b1d7ec7b.css",
+    "main.js": "/proyecto122paginafutbol/static/js/main.ce1e831c.js",
+    "static/js/787.f225361e.chunk.js": "/proyecto122paginafutbol/static/js/787.f225361e.chunk.js",
+    "index.html": "/proyecto122paginafutbol/index.html",
+    "main.b1d7ec7b.css.map": "/proyecto122paginafutbol/static/css/main.b1d7ec7b.css.map",
+    "main.ce1e831c.js.map": "/proyecto122paginafutbol/static/js/main.ce1e831c.js.map",
+    "787.f225361e.chunk.js.map": "/proyecto122paginafutbol/static/js/787.f225361e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.ce1e831c.js"
+  ]
+}
